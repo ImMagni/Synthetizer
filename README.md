@@ -1,9 +1,9 @@
 # Synthetizer
-Synthetizer made of pcm5000 lm4810 pam8403
+3 Octaves synthetizer piano made of PCM5100, LM4810 and PAM8403 
 ## Why
 I wanted to create a multipad for gaming and other tasks. When the kit arrives, I might add more modes like editing and streaming.
-## What does it includes
-
+## Features
+- Volume control from the screen
 ## BOM
 - 1× Orpheus_Pico (Raspberry Pi Pico)
 - 5× Capacitor 1 µF
@@ -21,7 +21,8 @@ I wanted to create a multipad for gaming and other tasks. When the kit arrives, 
 - 40× Botón pulsador (SW_Push)
 - 1× Rotary Encoder con switch (RotaryEncoder_Switch_MP)
 - 1× DAC PCM5100
-- 1× Amplificador LM4810
+- 1× LM4810
+- 1x PAM8403
 - 4x M3 Heatsets
 - 4x M3x16 screws
 
