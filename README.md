@@ -9,15 +9,12 @@
 - 1× Capacitor 0.1 µF
 - 1× Capacitor 0.1 µF
 - 2× Capacitor 10 µF
-- 41× Diodo 1N4148
-- 4× Mounting Hole M3
-- 1× Pantalla ST7735R LCD
-- 1× Jack de audio 3.5 mm, 4 polos (AudioJack4_SwitchT1)
-- 2× Pad de conexión (+)
-- 2× Pad de conexión (–)
+- 41× Diode 1N4148
+- 1× screen ST7735R LCD
+- 1× Jack de audio 3.5 mm
 - 2× Resistencia 10 kΩ
-- 40× Botón pulsador (SW_Push)
-- 1× Rotary Encoder con switch (RotaryEncoder_Switch_MP)
+- 40× Botón pulsador
+- 1× Rotary Encoder with switch
 - 1× DAC PCM5100
 - 1× LM4810
 - 1x PAM8403
@@ -30,4 +27,4 @@ Case|Schematic|Pcb
 
 -|-
 :-:|:-:|
-<img src=images/render.PNG/>|<img src=images/render2.png/>
+<img src=images/3dviewpcb.png/>|<img src=images/render2.png/>
