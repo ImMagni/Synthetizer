@@ -1,7 +1,5 @@
 # Synthetizer
 3 Octaves synthetizer piano made of PCM5100, LM4810 and PAM8403 
-## Why
-I wanted to create a multipad for gaming and other tasks. When the kit arrives, I might add more modes like editing and streaming.
 ## Features
 - Volume control from the screen
 ## BOM
