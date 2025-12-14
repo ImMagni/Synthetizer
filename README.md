@@ -18,8 +18,8 @@
 - 1× DAC PCM5100
 - 1× LM4810
 - 1x PAM8403
-- 4x M3 Heatsets
-- 4x M3x16 screws
+- 5x M3 Heatsets
+- 5x M3x16 screws
 
 Case|Schematic|Pcb
 :-:|:-:|:-:|
