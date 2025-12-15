@@ -1,0 +1,27 @@
+Reference;Value;Footprint;Product Amount;Do i have it?; Product Cost ;;link
+A1;Orpheus_Pico;Module:RaspberryPi_Pico_Common_Unspecified;1;No;;;
+C1,C2,C3,C4,C13;1u;Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm;5;No;;;
+C5,C6,C8,C11;4.7u;Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm;4;No;;;
+C7;0.1u;Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm;1;No;;;
+C9;0.1u;Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;1;No;;;
+C10,C12;10u;Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm;2;No;;;
+D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,d36,D37,D38,D39,D40,D41;1N4148;Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal;41;No;;;
+J1;ST7735R LCD;Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical;1;No;;;
+R1,R2;10k;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;2;No;;;
+SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16,SW17,SW18,SW19,SW20,SW21,SW22,SW23,SW24,SW25,SW26,SW27,SW28,SW29,SW30,SW31,SW32,SW33,SW34,SW35,SW36,SWDN1,SWL1,SWR1,SWUP1;SW_Push;Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB;40;No;;;
+;Keycaps;keyboard white keycaps;40;No;;;
+SW37;RotaryEncoder_Switch_MP;Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles;1;No;;;
+U1;PCM5100;Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm;1;No;;;
+;;;;;;;
+U2;LM4810;Package_SO:TSSOP-8_3x3mm_P0.65mm;1;No; $0,40 ;;https://es.aliexpress.com/item/1005009657867113.html?spm=a2g0o.productlist.main.2.2e8d30f9E8TiqB&algo_pvid=f89218a4-c6a2-455b-88a0-e10d5feb7f3c&algo_exp_id=f89218a4-c6a2-455b-88a0-e10d5feb7f3c-1&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21COP%211557.78%211402.00%21%21%210.40%210.36%21%402101e80317656945595371107e35e5%2112000049788064276%21sea%21CO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A3eff8423%3Bm03_new_user%3A-29895&curPageLogUid=Ha6Cjx350bAm&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009657867113%7C_p_origin_prod%3A
+U4;PAM8403;PAM8403:SOP-16;1;No; $1,44 ; Comes in pack of 10, need 1 ;https://es.aliexpress.com/item/1005004049958533.html?spm=a2g0o.productlist.main.1.68e87d54wZR4eF&aem_p4p_detail=202512132246143038932295357520001336111&algo_pvid=9428c439-afd9-4eff-90ee-d47d23637f58&algo_exp_id=9428c439-afd9-4eff-90ee-d47d23637f58-0&pdp_ext_f=%7B%22order%22%3A%2213%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21COP%213815.00%213815.00%21%21%210.98%210.98%21%402103123917656947748074076e6e07%2112000027861612576%21sea%21CO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A3eff8423%3Bm03_new_user%3A-29895&curPageLogUid=COpiZgxlrIOB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004049958533%7C_p_origin_prod%3A&search_p4p_id=202512132246143038932295357520001336111_1
+J2;AudioJack4_SwitchT1;Connector_Audio:Jack_3.5mm_PJ31060-I_Horizontal;1;No; $1,73 ; Comes in pack of 10, need 1 ;https://es.aliexpress.com/item/1005008729176265.html?spm=a2g0o.productlist.main.21.5defea9Xea9XFC&algo_pvid=20396d81-2dcc-4a76-ad36-3f1f0c576c84&algo_exp_id=20396d81-2dcc-4a76-ad36-3f1f0c576c84-20&pdp_ext_f=%7B%22order%22%3A%227%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21COP%216491.14%213854.00%21%21%2111.76%216.98%21%402103123917656953640837710e6ec6%2112000046422399674%21sea%21CO%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A3eff8423%3Bm03_new_user%3A-29895%3BpisId%3A5000000187448340&curPageLogUid=a8f75ttgA6LR&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008729176265%7C_p_origin_prod%3A
+;PCB;PCB;1;No; $17,90 ;;jlcpcb
+;;pcb shipping;;No; $24,04 ;;
+;;aliexpress shipping;;No; $7,00 ;;
+;;;;;;;
+;;;;;;;
+;;;;Total; $52,51 ; It doesnt include the 3d case ship ;
+;;;;;;;
+;;;;;;;
+;;;;;;;
