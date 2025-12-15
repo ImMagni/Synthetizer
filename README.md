@@ -15,11 +15,11 @@
 - 2× Capacitor 10 µF
 - 41× Diode 1N4148
 - 1× screen ST7735R LCD
-- 1× Jack de audio 3.5 mm
+- 1× Jack audio 3.5 mm
 - 2× Resistencia 10 kΩ
-- 40× Botón pulsador
+- 40× Cherry Switchs
 - 1× Rotary Encoder with switch
-- 1× DAC PCM5100
+- 1× PCM5100 DAC
 - 1× LM4810
 - 1x PAM8403
 - 5x M3 Heatsets
@@ -31,4 +31,4 @@ Case|Schematic|Pcb
 
 -|-
 :-:|:-:|
-<img src=images/3dviewpcb.png/>|<img src=images/render2.png/>
+<img src=images/all.png/>|<img src=images/3dviewpcb.png/>
