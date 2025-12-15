@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "idk")(type "KiCad")(uri "${KIPRJMOD}/pam8403-kicad-symbol-footprint/pam8403.kicad_sym")(options "")(descr ""))
+  (lib (name "Pam8403")(type "KiCad")(uri "${KIPRJMOD}/PAM8403/PAM8403.kicad_sym")(options "")(descr ""))
+)
