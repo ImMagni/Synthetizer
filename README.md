@@ -1,7 +1,11 @@
 # Synthetizer
+<img src=images/3dviewpcb.png/> <br>
 3 Octaves synthetizer piano made of PCM5100, LM4810 and PAM8403 
 ## Features
 - Volume control from the screen
+- Midi, Speakers, and line output.
+- 3 octaves
+- four types of waves to make audio
 ## BOM
 - 1× Orpheus_Pico (Raspberry Pi Pico)
 - 5× Capacitor 1 µF
