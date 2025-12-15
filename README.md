@@ -1,6 +1,6 @@
 # Synthetizer
 <img src=images/3dviewpcb.png/> <br>
-3 Octaves synthetizer piano made of PCM5100, LM4810 and PAM8403 
+A synthetizer piano with three octaves that uses a orpheus pico, PCM5100, LM4810 and PAM8403 
 ## Features
 - Volume control from the screen
 - Midi, Speakers, and line output.
