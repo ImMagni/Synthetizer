@@ -2,7 +2,7 @@
 <img src=images/3dviewpcb.png/> <br>
 A Synthesizer piano with three octaves that uses an Orpheus Pico, PCM5100 DAC, LM4810, and PAM8403 amplifiers.
 
-This project is a digital synthesizer keyboard capable of generating audio internally or outputting MIDI over USB. It features a screen-based user interface controlled through a rotary encoder and directional buttons, allowing real-time configuration without the need for a computer.
+This project is a digital synthesizer keyboard capable of generating audio internally or outputting MIDI over USB. It features a screen-based user interface controlled through a rotary encoder and directional buttons.
 ## Features
 - Volume control from the screen using a rotary encoder
 - Selectable output modes: MIDI, Speakers, or Line output
